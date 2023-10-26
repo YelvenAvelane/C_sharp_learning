@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\bin\Debug\net6.0\HomeTask3.exe
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\bin\Debug\net6.0\HomeTask3.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\bin\Debug\net6.0\HomeTask3.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\bin\Debug\net6.0\HomeTask3.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\bin\Debug\net6.0\HomeTask3.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\refint\HomeTask3.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\HomeTask3.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_1\HomeTask3\obj\Debug\net6.0\ref\HomeTask3.dll
