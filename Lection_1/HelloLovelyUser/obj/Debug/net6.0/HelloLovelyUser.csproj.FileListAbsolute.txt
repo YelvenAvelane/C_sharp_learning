@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\bin\Debug\net6.0\HelloLovelyUser.exe
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\bin\Debug\net6.0\HelloLovelyUser.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\bin\Debug\net6.0\HelloLovelyUser.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\bin\Debug\net6.0\HelloLovelyUser.dll
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\bin\Debug\net6.0\HelloLovelyUser.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.dll
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\refint\HelloLovelyUser.dll
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\HelloLovelyUser.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\HelloLovelyUser\obj\Debug\net6.0\ref\HelloLovelyUser.dll

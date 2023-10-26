@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\bin\Debug\net6.0\TaskWithGIRI.exe
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\bin\Debug\net6.0\TaskWithGIRI.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\bin\Debug\net6.0\TaskWithGIRI.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\bin\Debug\net6.0\TaskWithGIRI.dll
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\bin\Debug\net6.0\TaskWithGIRI.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.dll
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\refint\TaskWithGIRI.dll
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\TaskWithGIRI.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\TaskWithGIRI\obj\Debug\net6.0\ref\TaskWithGIRI.dll

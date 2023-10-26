@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\bin\Debug\net6.0\DivNumbers.exe
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\bin\Debug\net6.0\DivNumbers.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\bin\Debug\net6.0\DivNumbers.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\bin\Debug\net6.0\DivNumbers.dll
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\bin\Debug\net6.0\DivNumbers.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.dll
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\refint\DivNumbers.dll
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\DivNumbers.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\DivNumbers\obj\Debug\net6.0\ref\DivNumbers.dll

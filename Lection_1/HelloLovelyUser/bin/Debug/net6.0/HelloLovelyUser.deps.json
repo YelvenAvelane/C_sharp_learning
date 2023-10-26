@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HelloLovelyUser/1.0.0": {
+        "runtime": {
+          "HelloLovelyUser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloLovelyUser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
