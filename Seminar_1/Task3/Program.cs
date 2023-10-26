@@ -7,7 +7,7 @@
 
 Console.Write("Введите число: ");
 string strNum = Console.ReadLine();
-int dayNum = int.Parse(strNum);
+int dayNum = int.Parse(strNum); // Эта строка не обязательна. Вместо неё можно числа в ветвлениях записать в кавычки. Например: if (dayNum == "1"). Тот же результат.
 
 if (dayNum == 1)
 {
