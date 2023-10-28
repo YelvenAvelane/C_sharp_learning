@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\bin\Debug\net6.0\IntroArray.exe
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\bin\Debug\net6.0\IntroArray.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\bin\Debug\net6.0\IntroArray.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\bin\Debug\net6.0\IntroArray.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\bin\Debug\net6.0\IntroArray.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\refint\IntroArray.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\IntroArray.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\IntroArray\obj\Debug\net6.0\ref\IntroArray.dll
