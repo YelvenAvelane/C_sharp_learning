@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\bin\Debug\net6.0\MethodArray.exe
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\bin\Debug\net6.0\MethodArray.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\bin\Debug\net6.0\MethodArray.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\bin\Debug\net6.0\MethodArray.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\bin\Debug\net6.0\MethodArray.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\refint\MethodArray.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\MethodArray.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Lection_2\MethodArray\obj\Debug\net6.0\ref\MethodArray.dll
