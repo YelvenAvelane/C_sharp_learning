@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\bin\Debug\net6.0\HomeTask1(ver.2).exe
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\bin\Debug\net6.0\HomeTask1(ver.2).deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\bin\Debug\net6.0\HomeTask1(ver.2).runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\bin\Debug\net6.0\HomeTask1(ver.2).dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\bin\Debug\net6.0\HomeTask1(ver.2).pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\refint\HomeTask1(ver.2).dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\HomeTask1(ver.2).genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\Seminar_2\HomeTask1(ver.2)\obj\Debug\net6.0\ref\HomeTask1(ver.2).dll
