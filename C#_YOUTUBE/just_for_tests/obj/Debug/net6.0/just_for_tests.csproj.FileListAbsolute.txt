@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.AssemblyInfo.cs
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\bin\Debug\net6.0\just_for_tests.exe
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\bin\Debug\net6.0\just_for_tests.deps.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\bin\Debug\net6.0\just_for_tests.runtimeconfig.json
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\bin\Debug\net6.0\just_for_tests.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\bin\Debug\net6.0\just_for_tests.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\refint\just_for_tests.dll
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.pdb
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.genruntimeconfig.cache
+C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\ref\just_for_tests.dll
