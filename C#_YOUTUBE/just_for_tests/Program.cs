@@ -1,8 +1,14 @@
-﻿Console.Write("Введите сумму в рублях: ");
+﻿Console.Write("Введите число: ");
 string strNum = Console.ReadLine(); 
 double num = double.Parse(strNum);
 
-double result = num*0.1;
-Console.WriteLine(num + "рублей = " + result + "долларов");
+if (num%2 == 0)
+{
+Console.WriteLine("Чётное");
+}
+else
+{
+    Console.WriteLine("НЕчётное");
+}
 
 
