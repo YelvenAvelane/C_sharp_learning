@@ -1,4 +1,8 @@
-﻿string str = "1d";
-int a;
-bool result  = int.TryParse(str, out a);
-Console.WriteLine(result);
+﻿Console.Write("Введите сумму в рублях: ");
+string strNum = Console.ReadLine(); 
+double num = double.Parse(strNum);
+
+double result = num*0.1;
+Console.WriteLine(num + "рублей = " + result + "долларов");
+
+
