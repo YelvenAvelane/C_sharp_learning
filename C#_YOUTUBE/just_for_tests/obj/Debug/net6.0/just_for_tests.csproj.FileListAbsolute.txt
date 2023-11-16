@@ -1,4 +1,3 @@
-C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.csproj.AssemblyReference.cache
 C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.AssemblyInfoInputs.cache
 C:\Users\1\Desktop\POINA IT\Учёба\Lection_and_Seminars\C#_YOUTUBE\just_for_tests\obj\Debug\net6.0\just_for_tests.AssemblyInfo.cs
